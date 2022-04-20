@@ -1,0 +1,7 @@
+
+
+-- to start docker
+docker-compose -f docker-compose.yml up -d
+
+-- to down docker
+docker-compose -f docker-compose.yml down -v
